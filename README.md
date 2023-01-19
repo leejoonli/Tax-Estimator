@@ -1,6 +1,6 @@
 # Application Description
 
-A tax estimator application for the 2023 tax year.  Made using C++ and IMGUI.
+A tax estimator application for the 2023 tax year.  Made using C++ and Dear ImGui.
 
 # References
 
