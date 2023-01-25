@@ -44,7 +44,7 @@ A tax estimator application for the 2023 tax year based off the tax estimator on
 
 ## Known Bugs
 
-- There is a bug where if you try to re-input the income after doing it once, the tax owed will stay the same.
+- Currently, the choice the user makes regarding income source does not affect the estimate result.
 
 # References
 
