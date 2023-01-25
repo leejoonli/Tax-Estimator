@@ -42,6 +42,10 @@ A tax estimator application for the 2023 tax year based off the tax estimator on
 
 > If you identify bugs, submit an issue on the GitHub repository.  Please detail the bug in your issue by: describe the bug (any error messages or unexpected behavior) and the steps necessary to replicate the bug.  If you know how to fix it, feel free to note the methods you would use.  You could also submit a pull request with the suggested code to fix it.
 
+## Known Bugs
+
+- There is a bug where if you try to re-input the income after doing it once, the tax owed will stay the same.
+
 # References
 
 Dear IMGUI:
