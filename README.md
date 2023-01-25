@@ -3,6 +3,7 @@
 A tax estimator application for the 2023 tax year based off the tax estimator on the IRS website.  Made using C++, Dear ImGui, and Microsoft Visual Studio.  Aimed for a streamlined approach to calculating an estimate of taxes owed for the year.
 
 > This is created with DirectX 12 in mind.  If this application does not work for you, this could be a potential reason why.
+> The `Application.cpp` file in the `src` directory is solely for the purpose of showing the code.  Nothing will happen to the executable application if you modify this file.  Moreover, it will not build or run correctly because there are other files necessary for that to work.  It is recommended that if you want to make modifications to this application for your own purposes, you download Microsoft Visual Studio 2022 and install Dear ImGui.
 
 # Technologies Used
 
