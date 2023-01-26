@@ -16,7 +16,8 @@ A tax estimator application for the 2023 tax year based off the tax estimator on
 1. Open your terminal and navigate to your desired directory where you want to store this repository by using `cd <YOUR DIRECTORY HERE>`.
 2. On this GitHub repository, click on the `Code` dropdown menu and either click on `HTTPS` or `SSH` depending on what you're using.
     > You can either click the link which will highlight the `HTTPS` URL or `SSH` key and copy it or click on the icon next to it which will copy it into your clipboard.
-3. Fork and Clone this repository to your machine using `git clone <PASTE YOUR SSH OR HTTP HERE>`.
+3. Clone this repository to your machine using `git clone <PASTE YOUR SSH OR HTTP HERE>`.
+    > If you wish to fork it, you can do so by clicking the `Fork` option in the top right corner of the web page.
 4. Navigate into your newly cloned directory.
     > The directory should be named `Tax-Estimator`.  The command you should run should look like this: `cd Tax-Estimator`.
 5. Now you can open the application by navigating to it using your `File Explorer` or equivalent.
@@ -46,6 +47,8 @@ A tax estimator application for the 2023 tax year based off the tax estimator on
 ## Known Bugs
 
 - Currently, the choice the user makes regarding income source does not affect the estimate result.
+- This does not take into consideration the entirety of the tax owed based off income chart on the W4 and will not handle extremely large numbers.
+- If the user inputs an amount larger than the income, the estimate result will be affected (User should input real world values).
 
 # References
 
